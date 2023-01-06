@@ -262,17 +262,26 @@ getting their guid’s.
 
 
 # Task 6
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210928218-7d54d91d-abd2-4fac-b424-235aad365bd7.PNG" width=70% height=70%>
 
 The image above shows the JavaScript code that was put in Samy’s account
 
+<img src= "https://user-images.githubusercontent.com/77298953/210928246-1c7e53f8-52e6-472b-a998-8acbfe9995dd.PNG" width=70% height=70%>
+
 The image above shows that Alice’s account was infected
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210928277-64940758-7370-4d03-80a2-0f3e9448f557.PNG" width=70% height=70%>
 
 The image above shows that Charlies account was infected
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210928298-6e0d3bb5-643f-4244-b343-2bf1bacc06f6.PNG" width=70% height=70%>
 
 The image above shows that the code was put into Boby’s account after being infected with the worm
 
 
 ## Task 6 Explanation  
+ 
 In task 6 the objective was to create the self-propagating worm so that when a user visits an infected
 
 profile their profile is modified and then anyone who views infected profiles will become infected. This
@@ -302,9 +311,9 @@ infected would have the words “Worm is spreading” in their profile indicatin
 
 # Task 7
 
-**Question 1:** Describe and explain your observations when you visit these websites.
+## Question 1: Describe and explain your observations when you visit these websites.
 
-**Ans:** When visiting the three websites, each website displayed the status for various aspects of the CSP
+Answer : When visiting the three websites, each website displayed the status for various aspects of the CSP
 
 experiments that were labeled areas 1 – 6. In the first website: [www.example32a.com](http://www.example32a.com/)[,](http://www.example32a.com/)[ ](http://www.example32a.com/)the status of each
 
@@ -321,11 +330,11 @@ code and was not functioning properly. Lastly, in website thre[e,](http://www.ex
 with areas 2,3 and 5 since they had the “Failed” status while areas 1,4 and 6 had the “OK” status.
 
 
-**Question 2:** Click the button in the web pages from all the three websites, describe and explain your
+## Question 2: Click the button in the web pages from all the three websites, describe and explain your
 
 observations.
 
-**Ans:** When visiting the first websit[e,](http://www.example32a.com/)[ ](http://www.example32a.com/)[www.example32a.com](http://www.example32a.com/)[,](http://www.example32a.com/)[ ](http://www.example32a.com/)and clicking the button at the bottom of
+Answer : When visiting the first websit[e,](http://www.example32a.com/)[ ](http://www.example32a.com/)[www.example32a.com](http://www.example32a.com/)[,](http://www.example32a.com/)[ ](http://www.example32a.com/)and clicking the button at the bottom of
 
 the page an alert pops up on the window with the text “JS Code executed!”. In contrast, when clicking
 
@@ -343,11 +352,12 @@ was shown. Since the code was not executing properly in the second and third web
 
 occurred when the buttons were clicked.
 
-**Question 3:** Change the server configuration on example32b (modify the Apache configuration), so
+## Question 3: Change the server configuration on example32b (modify the Apache configuration), so
 
 Areas 5 and 6 display OK. Please include your modified configuration in the lab report.
+ 
 
-**Ans:** Areas 5 and 6 now display the status “OK” after altering the Apache configuration. In the
+Answer : Areas 5 and 6 now display the status “OK” after altering the Apache configuration. In the
 
 configuration I added “ ‘nonce-111-111-111’ ‘nonce-222-222-222’ \\*.example60.com”. This addition
 
@@ -358,11 +368,12 @@ the header. In the original Apache file, the two nonces were not included and th
 [www.example60.com](http://www.example60.com/)[,](http://www.example60.com/)[ ](http://www.example60.com/)[w](http://www.example60.com/)as not included so it would not execute correctly.
 
 
-**Question 4:** Change the server configuration on example32c (modify the PHP code), so Areas 1, 2, 4, 5,
+## Question 4: Change the server configuration on example32c (modify the PHP code), so Areas 1, 2, 4, 5,
 
 and 6 all display OK. Please include your modified configuration in the lab report.
 
-**Ans:** After editing the phpindex.php file by adding “ ’nonce-222-222-222’ \*.example60.com” areas 2 and
+ 
+Answer: After editing the phpindex.php file by adding “ ’nonce-222-222-222’ \*.example60.com” areas 2 and
 
 5 showed the “OK” status. This is because the nonce and website were now specified in the header
 
@@ -370,9 +381,11 @@ whereas previously it was not specified so the status was “Failed”. Areas 1,
 
 and were in the header so those did not need to be fixed.
 
-**Question 5:** Please explain why CSP can help prevent Cross-Site Scripting attacks.
+ 
+## Question 5: Please explain why CSP can help prevent Cross-Site Scripting attacks.
 
-Ans: CSP stands for Content Security Policy and this is a computer security standard that was introduced
+ 
+Answer : CSP stands for Content Security Policy and this is a computer security standard that was introduced
 
 to prevent cross-site scripting attacks. CSP can be used to prevent cross-site scripting attacks because of
 
