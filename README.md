@@ -26,6 +26,9 @@ This lab covers the following topics:
 
 # Lab Environment Setup
 
+<img src= "https://user-images.githubusercontent.com/77298953/210926756-1ec6a02b-26e5-4495-a6a7-812f66e0d49c.PNG" width=70% height=70%>
+
+
 The image above shows the lab environment setup by adding the DNS configurations and the websites
 
 relating to the ip addresses in the /etc/hosts file using the command “sudo nano /etc/hosts”. Along with
@@ -34,7 +37,13 @@ this the commands “docker-compose build” and “docker-compose up” were us
 
 container. With all of this setup, all of the websites were running properly and could be visited.
 
+
 # Task 1
+
+<img src= "https://user-images.githubusercontent.com/77298953/210926811-d7f6678f-73e7-4120-9846-36b858adf35d.PNG" width=70% height=70%>
+
+<img src= "https://user-images.githubusercontent.com/77298953/210926856-1aaec324-a441-46ae-bc73-7e1614d5371d.PNG" width=70% height=70%>
+
 
 
 #Task 1 Explanation
@@ -55,9 +64,15 @@ visited.
 
 # Task 2
 
+<img src= "https://user-images.githubusercontent.com/77298953/210927000-ce50b1a4-1306-47fc-9c94-72744cb1e62d.PNG" width=70% height=70%>
+
 The image above shows the script that was added to the “about me” section of Alice’s profile
 
+<img src= "https://user-images.githubusercontent.com/77298953/210927035-90c27acb-6634-4f2d-8482-645557a11403.PNG" width=70% height=70%>
+
 The image above shows the cookies of Alice’s profile when she is viewing her own account
+
+<img src= "https://user-images.githubusercontent.com/77298953/210927078-00f0db15-a75f-4f7c-a98f-f3c99c106e6c.PNG" width=70% height=70%>
 
 The image above shows the cookies of Samy’s profile when viewing Alice’s profile
 
