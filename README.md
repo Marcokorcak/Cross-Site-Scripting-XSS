@@ -14,7 +14,9 @@ container. With all of this setup, all of the websites were running properly and
 
 # Task 1
 
-**Ans**: For task 1, we were tasked with embedding a JavaScript program into a Elgg profile so
+
+#Task 1 Explanation
+For task 1, we were tasked with embedding a JavaScript program into a Elgg profile so
 
 when another user views the profile the script will be executed. We were provided with the code:
 
@@ -37,7 +39,9 @@ The image above shows the cookies of Alice’s profile when she is viewing her o
 
 The image above shows the cookies of Samy’s profile when viewing Alice’s profile
 
-**Ans:** In task 2, the objective was to embed a JavaScript program in Alice’s profile to display the
+
+## Task 2 Explanation
+In task 2, the objective was to embed a JavaScript program in Alice’s profile to display the
 
 cookies of the person visiting her profile. The cookies will be displayed in an alert pop up
 
@@ -63,7 +67,8 @@ The image above shows the results of running “nc -lknv 5555” in the terminal
 Samy’s cookies when he visited Alice’s profile
 
 
-**Ans:** In task 3 the objective was to steal cookies from the victim’s machine, the victim being the
+## Task 3 Explanation
+In task 3 the objective was to steal cookies from the victim’s machine, the victim being the
 
 user visiting Alice’s account. In previous tasks, the malicious JavaScript code the cookies would
 
@@ -95,7 +100,8 @@ The image above shows the JavaScript code that was added to Samy’s profile
 The image above shows that Alice is now friends with Samy just by visiting his page
 
 
-**Ans:** In this task the objective was to become a victim’s friend through the use of JavaScript
+ ## Task 4 Explanation
+In this task the objective was to become a victim’s friend through the use of JavaScript
 
 code. This was meant to mimic the Samy worm that occurred in 2005 but in this task, it was not
 
@@ -158,7 +164,9 @@ The image above shows the JavaScript code that was added in order to achieve the
 
 The image above shows that Alice’s “About Me” section was changed as a result of viewing Samys page
 
-**Ans:** In this task the objective was to modify the victim’s profile when Samy’s page is visited. In order to
+
+## Task 5 Explanation
+In this task the objective was to modify the victim’s profile when Samy’s page is visited. In order to
 
 achieve this, JavaScript code was added that will be executed when the victim visits Samy’s profile. The
 
@@ -209,7 +217,9 @@ The image above shows that Charlies account was infected
 
 The image above shows that the code was put into Boby’s account after being infected with the worm
 
-**Ans:** In task 6 the objective was to create the self-propagating worm so that when a user visits an infected
+
+## Task 6 Explanation  
+In task 6 the objective was to create the self-propagating worm so that when a user visits an infected
 
 profile their profile is modified and then anyone who views infected profiles will become infected. This
 
