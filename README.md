@@ -178,7 +178,7 @@ which is evident in the second picture where Alice visited Samy’s page.
 ## Question 1: Explain the purpose of Lines CD and @, why are they are needed?
  
 
-## Answer : Lines CD and @ are needed because they serve the purpose of getting the values for \_\_elgg\_ts and
+Answer : Lines CD and @ are needed because they serve the purpose of getting the values for \_\_elgg\_ts and
 
 \_\_elgg\_token. These two parameters are needed because without them a HTTP request cannot be forged
 
@@ -198,7 +198,7 @@ successfully.
 cannot switch to the Text mode, can you still launch a successful attack?
 
  
-## Answer: If the Elgg application would only provide Editor Mode for the “About Me” field and did not let
+Answer: If the Elgg application would only provide Editor Mode for the “About Me” field and did not let
 
 user’s to switch to Text Mode, the attack cannot be launched successfully. This attack would not be able
 
