@@ -352,9 +352,7 @@ was shown. Since the code was not executing properly in the second and third web
 
 occurred when the buttons were clicked.
 
-## Question 3: Change the server configuration on example32b (modify the Apache configuration), so
-
-Areas 5 and 6 display OK. Please include your modified configuration in the lab report.
+## Question 3: Change the server configuration on example32b (modify the Apache configuration), so Areas 5 and 6 display OK. Please include your modified configuration in the lab report.
  
 
 Answer : Areas 5 and 6 now display the status “OK” after altering the Apache configuration. In the
@@ -368,9 +366,7 @@ the header. In the original Apache file, the two nonces were not included and th
 [www.example60.com](http://www.example60.com/)[,](http://www.example60.com/)[ ](http://www.example60.com/)[w](http://www.example60.com/)as not included so it would not execute correctly.
 
 
-## Question 4: Change the server configuration on example32c (modify the PHP code), so Areas 1, 2, 4, 5,
-
-and 6 all display OK. Please include your modified configuration in the lab report.
+## Question 4: Change the server configuration on example32c (modify the PHP code), so Areas 1, 2, 4, 5, and 6 all display OK. Please include your modified configuration in the lab report.
 
  
 Answer: After editing the phpindex.php file by adding “ ’nonce-222-222-222’ \*.example60.com” areas 2 and
