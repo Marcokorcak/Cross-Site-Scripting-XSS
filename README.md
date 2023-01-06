@@ -70,7 +70,7 @@ is executed. The second image shows an alert box popping up when Alice’s profi
 visited.
 
 
-# Task 2
+# Task 2 Posting a Malicious Message to Display Cookies
 
 <img src= "https://user-images.githubusercontent.com/77298953/210927000-ce50b1a4-1306-47fc-9c94-72744cb1e62d.PNG" width=70% height=70%>
 
@@ -101,7 +101,7 @@ account. In the instance above, Alice’s account was viewed from Samy’s profi
 Samy’s cookies.
 
 
-# Task 3
+# Task 3 Stealing Cookies from the Victims Machine
 
 <img src= "https://user-images.githubusercontent.com/77298953/210927265-6df8cd9f-7cef-4526-ac61-614b9abdbbdd.PNG" width=70% height=70%>
 
@@ -145,7 +145,7 @@ command “nc -lknv 5555” printed the Elgg cookies of the user visiting Alice�
 the image above is Samy.
 
 
-# Task 4
+# Task 4 Becoming the Victims Friend
  
 <img src= "https://user-images.githubusercontent.com/77298953/210927456-c40acfed-b48b-4f07-9d0a-e426c17d3f3f.PNG" width=70% height=70%>
 
@@ -217,7 +217,7 @@ can prevent the code from executing properly. Due to this reason, Text Mode is n
 attack properly.
 
 
-# Task 5
+# Task 5 Modifying the Victims Profile
  
 <img src= "https://user-images.githubusercontent.com/77298953/210927889-3067fb2b-92a3-47eb-ac62-ba4ee662879d.PNG" width=70% height=70%>
 
@@ -269,7 +269,7 @@ that the code does not edit his own profile but the profiles of others and this 
 getting their guid’s.
 
 
-# Task 6
+# Task 6 Writing a Self-Propagating XSS Worm
  
 <img src= "https://user-images.githubusercontent.com/77298953/210928218-7d54d91d-abd2-4fac-b424-235aad365bd7.PNG" width=70% height=70%>
 
@@ -317,7 +317,7 @@ victim’s profile and would be transferred to another user when they got infect
 infected would have the words “Worm is spreading” in their profile indicating they have been infected.
 
 
-# Task 7
+# Task 7 Defeating XSS Attacks Using CSP
 
 ## Question 1: Describe and explain your observations when you visit these websites.
 
