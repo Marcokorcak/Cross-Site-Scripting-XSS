@@ -193,9 +193,7 @@ order to make a correct HTTP request and are added to the end of the url so Samy
 successfully.
  
 
-## Question 2: If the Elgg application only provide the Editor mode for the "About Me" field, i.e., you
-
-cannot switch to the Text mode, can you still launch a successful attack?
+## Question 2: If the Elgg application only provide the Editor mode for the "About Me" field, i.e., you cannot switch to the Text mode, can you still launch a successful attack?
 
  
 Answer: If the Elgg application would only provide Editor Mode for the “About Me” field and did not let
