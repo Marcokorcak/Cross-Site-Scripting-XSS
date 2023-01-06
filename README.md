@@ -210,8 +210,12 @@ attack properly.
 
 
 # Task 5
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210927889-3067fb2b-92a3-47eb-ac62-ba4ee662879d.PNG" width=70% height=70%>
 
 The image above shows the JavaScript code that was added in order to achieve the task
+
+<img src= "https://user-images.githubusercontent.com/77298953/210927942-8207bf76-7380-4e2e-a9bc-df2ddbfdded5.PNG" width=70% height=70%>
 
 The image above shows that Alice’s “About Me” section was changed as a result of viewing Samys page
 
@@ -240,12 +244,11 @@ desc variable was set to “Samy is my hero” which can be seen in the second s
 Alice’s profile description. All of this code is executed when a user visits Samy’s profile and allows the
 
 victims profile to be edited.
+ 
 
-**Question 3:** Why do we need Line CD? Remove this line, and repeat your attack. Report and explain
+## Question 3: Why do we need Line CD? Remove this line, and repeat your attack. Report and explain your observation?
 
-your observation?
-
-**Ans:** Line CD in the JavaScript code checks if the guid of the user is not Samy’s guid and if it is not, it
+Answer : Line CD in the JavaScript code checks if the guid of the user is not Samy’s guid and if it is not, it
 
 executes more code. If this line of code was not included, then the request would be sent out even if Samy
 
