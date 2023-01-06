@@ -330,9 +330,7 @@ code and was not functioning properly. Lastly, in website thre[e,](http://www.ex
 with areas 2,3 and 5 since they had the “Failed” status while areas 1,4 and 6 had the “OK” status.
 
 
-## Question 2: Click the button in the web pages from all the three websites, describe and explain your
-
-observations.
+## Question 2: Click the button in the web pages from all the three websites, describe and explain your observations.
 
 Answer : When visiting the first websit[e,](http://www.example32a.com/)[ ](http://www.example32a.com/)[www.example32a.com](http://www.example32a.com/)[,](http://www.example32a.com/)[ ](http://www.example32a.com/)and clicking the button at the bottom of
 
