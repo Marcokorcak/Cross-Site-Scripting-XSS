@@ -22,9 +22,17 @@ This lab covers the following topics:
 * JavaScript and Ajax
 * Content Security Policy (CSP) 
 
+## Table of contents
+* [Lab Setup](#Lab-Setup)
+* [Task 1 Posting a Malicious Message to Display an Alert Window](#Task-1-Posting-a-Malicious-Message-to-Display-an-Alert-Window)
+* [Task 2 Posting a Malicious Message to Display Cookies](#Task-2-Posting-a-Malicious-Message-to-Display-Cookies)
+* [Task 3 Stealing Cookies from the Victims Machine](#Task-3-Stealing-Cookies-from-the-Victims-Machine)
+* [Task 4 Becoming the Victims Friend](#Task-4-Becoming-the-Victims-Friend)
+* [Task 5 Modifying the Victims Profile](#Task-5-Modifying-the-Victims-Profile)
+* [Task 6 Writing a Self-Propagating XSS Worm](#Task-6-Writing-a-Self-Propagating-XSS-Worm)
+* [Task 7 Defeating XSS Attacks Using CSP](#Task-7-Defeating-XSS-Attacks-Using-CSP)
 
-
-# Lab Environment Setup
+# Lab Setup
 
 <img src= "https://user-images.githubusercontent.com/77298953/210926756-1ec6a02b-26e5-4495-a6a7-812f66e0d49c.PNG" width=70% height=70%>
 
@@ -38,7 +46,7 @@ this the commands “docker-compose build” and “docker-compose up” were us
 container. With all of this setup, all of the websites were running properly and could be visited.
 
 
-# Task 1
+# Task 1 Posting a Malicious Message to Display an Alert Window
 
 <img src= "https://user-images.githubusercontent.com/77298953/210926811-d7f6678f-73e7-4120-9846-36b858adf35d.PNG" width=70% height=70%>
 
