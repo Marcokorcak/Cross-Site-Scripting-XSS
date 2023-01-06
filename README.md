@@ -138,13 +138,18 @@ the image above is Samy.
 
 
 # Task 4
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210927456-c40acfed-b48b-4f07-9d0a-e426c17d3f3f.PNG" width=70% height=70%>
 
 The image above shows the JavaScript code that was added to Samy’s profile
-
+ 
+<img src= "https://user-images.githubusercontent.com/77298953/210927493-41081dba-ea9d-486e-aff6-4331871775d2.PNG" width=70% height=70%>
+ 
 The image above shows that Alice is now friends with Samy just by visiting his page
 
 
  ## Task 4 Explanation
+ 
 In this task the objective was to become a victim’s friend through the use of JavaScript
 
 code. This was meant to mimic the Samy worm that occurred in 2005 but in this task, it was not
@@ -168,10 +173,12 @@ since these are needed to be considered correct requests due to countermeasures.
 was done, when a user visited Samy’s profile, they would automatically be added as his friend
 
 which is evident in the second picture where Alice visited Samy’s page.
+ 
 
-**Question 1:** Explain the purpose of Lines CD and @, why are they are needed?
+## Question 1: Explain the purpose of Lines CD and @, why are they are needed?
+ 
 
-**Ans:** Lines CD and @ are needed because they serve the purpose of getting the values for \_\_elgg\_ts and
+## Answer : Lines CD and @ are needed because they serve the purpose of getting the values for \_\_elgg\_ts and
 
 \_\_elgg\_token. These two parameters are needed because without them a HTTP request cannot be forged
 
@@ -184,12 +191,14 @@ makes it difficult to forge requests and secures the elgg website. In essence, t
 order to make a correct HTTP request and are added to the end of the url so Samy can carry out his attack
 
 successfully.
+ 
 
-**Question 2:** If the Elgg application only provide the Editor mode for the "About Me" field, i.e., you
+## Question 2: If the Elgg application only provide the Editor mode for the "About Me" field, i.e., you
 
 cannot switch to the Text mode, can you still launch a successful attack?
 
-**Ans:** If the Elgg application would only provide Editor Mode for the “About Me” field and did not let
+ 
+## Answer: If the Elgg application would only provide Editor Mode for the “About Me” field and did not let
 
 user’s to switch to Text Mode, the attack cannot be launched successfully. This attack would not be able
 
