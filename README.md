@@ -95,9 +95,15 @@ Samy’s cookies.
 
 # Task 3
 
+<img src= "https://user-images.githubusercontent.com/77298953/210927265-6df8cd9f-7cef-4526-ac61-614b9abdbbdd.PNG" width=70% height=70%>
+
 The image above shows the code that was added to Alice’s profile in the “About Me” section
 
+<img src= "https://user-images.githubusercontent.com/77298953/210927294-d6c9c117-54a1-49c3-9d8a-99f614ba137a.PNG" width=70% height=70%>
+
 The image above shows how Alice’s profile looks when the code is embedded in her profile
+
+<img src= "https://user-images.githubusercontent.com/77298953/210927319-12eefad7-7607-498d-9a53-d7a7db9552b1.PNG" width=70% height=70%>
 
 The image above shows the results of running “nc -lknv 5555” in the terminal and this displayed
 
@@ -105,6 +111,7 @@ Samy’s cookies when he visited Alice’s profile
 
 
 ## Task 3 Explanation
+
 In task 3 the objective was to steal cookies from the victim’s machine, the victim being the
 
 user visiting Alice’s account. In previous tasks, the malicious JavaScript code the cookies would
